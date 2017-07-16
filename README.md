@@ -1,6 +1,6 @@
 # gitskills
 learn git skills
 
-Creating a new branch is quick & simple , it's good.
+Creating a new branch is quick & simple , it's very good.
 
 
